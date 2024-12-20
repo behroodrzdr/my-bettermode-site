@@ -1,4 +1,4 @@
-# PostGallery Application
+# Bettermode clone Application
 
 ## Introduction
 PostGallery is a React application designed to display collections of posts fetched dynamically via GraphQL. The application employs cutting-edge technologies like Apollo Client, TypeScript, Tailwind CSS, and `react-window` for virtualization. It demonstrates best practices in modern web development, including the use of custom hooks, efficient state management, and type safety.
