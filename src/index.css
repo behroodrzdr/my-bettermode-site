@@ -1,6 +1,6 @@
-@import '/src/assets/variables/colors.css';
-@import '/src/assets/variables/fonts.css';
-@import '/src/assets/variables/borderShadow.css';
+@import '/styles/colors.css';
+@import '/src/styles/fonts.css';
+@import '/src/styles/borderShadow.css';
 
 @tailwind base;
 @tailwind components;
