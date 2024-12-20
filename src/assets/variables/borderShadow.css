@@ -1,0 +1,35 @@
+:root { 
+    --bm-shadow-xs: 0px 1px 2px rgba(16, 24, 40, 0.05);
+    --bm-shadow-sm: 0px 1px 3px rgba(16, 24, 40, 0.1), 0px 1px 2px rgba(16, 24, 40, 0.06);
+    --bm-shadow-md: 0px 4px 8px -2px rgba(16, 24, 40, 0.1), 0px 2px 4px -2px rgba(16, 24, 40, 0.06);
+    --bm-shadow-lg: 0px 12px 16px -4px rgba(16, 24, 40, 0.08), 0px 4px 6px -2px rgba(16, 24, 40, 0.03);
+    --bm-shadow-xl: 0px 20px 24px -4px rgba(16, 24, 40, 0.08), 0px 8px 8px -4px rgba(16, 24, 40, 0.03);
+    --bm-shadow-2xl: 0px 24px 48px -12px rgba(16, 24, 40, 0.18);
+    --bm-shadow-3xl: 0px 32px 64px -12px rgba(16, 24, 40, 0.14);
+    --bm-shadow-base: 0px 4px 8px rgba(0, 0, 0, 0.05);
+    --bm-shadow-raised: 0px 29px 80px rgba(0, 0, 0, 0.07), 0px 18.7963px 46.8519px rgba(0, 0, 0, 0.0531481), 0px 11.1704px 25.4815px rgba(0, 0, 0, 0.0425185), 0px 5.8px 13px rgba(0, 0, 0, 0.035), 0px 2.36296px 6.51852px rgba(0, 0, 0, 0.0274815), 0px 0.537037px 3.14815px rgba(0, 0, 0, 0.0168519);
+    --bm-shadow-topbar: 0px 0px 6px rgba(0, 0, 0, 0.16);
+    --bm-shadow-card: 0px 0px 0px 1px rgba(0, 0, 0, 0.05), 0px 2px 4px rgba(0, 0, 0, 0.1);
+    --bm-shadow-card-hovered: 0px 4px 6px -4px rgba(0, 0, 0, 0.1), 0px 10px 15px -3px rgba(0, 0, 0, 0.1), 0px 0px 0px 1px rgba(15, 15, 15, 0.05);
+    --bm-shadow-popover: 0px 3px 6px -3px rgba(23, 24, 24, 0.08), 0px 8px 20px -4px rgba(23, 24, 24, 0.12);
+    --bm-shadow-modal: 0px 0px 1px rgba(0, 0, 0, 0.2), 0px 26px 80px rgba(0, 0, 0, 0.2);
+    --bm-radius-none: 0px;
+    --bm-radius-xs: 0.125rem;
+    --bm-radius-sm: 0.25rem;
+    --bm-radius-md: 0.5rem;
+    --bm-radius-lg: 0.75rem;
+    --bm-radius-xl: 1rem;
+    --bm-radius-full: 9999px;
+    --bm-radius-modal: 0.75rem;
+    --bm-radius-button: 9999px;
+    --bm-radius-button-sm: 9999px;
+    --bm-radius-avatar: 9999px;
+    --bm-radius-base: 0.5rem;
+    --bm-radius-base-sm: 0.25rem;
+    --bm-radius-popover: 0.5rem;
+    --bm-radius-card: 0.5rem;
+    --bm-radius-input: 0.5rem;
+    --bm-border-color-card: transparent;
+    --bm-border-color-topbar: transparent;
+    --bm-border-width-base: 0;
+}

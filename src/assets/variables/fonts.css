@@ -1,0 +1,34 @@
+:root {
+    --bm-font-size-xs: 12px;
+      --bm-font-size-sm: 14px;
+      --bm-font-size-md: 16px;
+      --bm-font-size-lg: 18px;
+      --bm-font-size-xl: 20px;
+      --bm-font-size-h-3xs: 16px;
+      --bm-font-size-h-2xs: 18px;
+      --bm-font-size-h-xs: 22px;
+      --bm-font-size-h-sm: 24px;
+      --bm-font-size-h-md: 28px;
+      --bm-font-size-h-lg: 32px;
+      --bm-font-size-h-xl: 36px;
+      --bm-font-size-h-2xl: 40px;
+      --bm-font-letter-spacing-heading: -0.01em;
+      --bm-font-letter-spacing-body: -0.01em;
+      --bm-font-letter-spacing-label: -0.025em;
+      --bm-font-line-height-xs: 18px;
+      --bm-font-line-height-sm: 20px;
+      --bm-font-line-height-md: 24px;
+      --bm-font-line-height-lg: 28px;
+      --bm-font-line-height-xl: 30px;
+      --bm-font-line-height-h-3xs: 26px;
+      --bm-font-line-height-h-2xs: 28px;
+      --bm-font-line-height-h-xs: 30px;
+      --bm-font-line-height-h-sm: 32px;
+      --bm-font-line-height-h-md: 36px;
+      --bm-font-line-height-h-lg: 40px;
+      --bm-font-line-height-h-xl: 44px;
+      --bm-font-line-height-h-2xl: 52px;
+      --bm-font-family-display: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Twemoji Mozilla", "Android Emoji";
+      --bm-font-family-sans: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Noto Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Twemoji Mozilla", "Android Emoji";
+      --bm-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace, ui-monospace, SFMono-Regular, 'SF Mono', Consolas, 'Liberation Mono', Menlo, monospace;
+  }
