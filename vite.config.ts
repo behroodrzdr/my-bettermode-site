@@ -28,10 +28,5 @@ export default () => {
         "@types": path.resolve(__dirname, "./src/types"),
       },
     },
-    // test: {
-    //   globals: true,
-    //   environment: 'jsdom',
-    //   setupFiles: './src/setupTests.ts',
-    // },
   });
 };

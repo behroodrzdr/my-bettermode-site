@@ -1,6 +1,5 @@
-import React, { useEffect, useState, useCallback } from "react";
+import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { FixedSizeList as List } from "react-window";
 import usePostByCollection from "@/hooks/usePostByCollection";
 import useCollection from "hooks/useCollection";
 import { PostVariables, Node } from 'types/posts';
